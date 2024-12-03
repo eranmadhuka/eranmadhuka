@@ -8,8 +8,8 @@
   <a href="https://www.instagram.com/eran.madhuka/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-E4405F">
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/EranMadhuka" target="_blank">
+       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </p>
 
