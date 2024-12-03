@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Eran Madhuka</h1>
-<h3 align="center">A passionate Full-Stack Web Developer and 3rd-year undergraduate at SLIIT Campus</h3>
+<h3 align="center">An enthusiastic Full-Stack Web Developer striving to master modern technologies and create impactful solutions</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eranmadhuka" target="_blank">
