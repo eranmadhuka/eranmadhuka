@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Eran Madhuka</h1>
 <h3 align="center">An enthusiastic Full-Stack Web Developer striving to master modern technologies and create impactful solutions</h3>
 
+### 📚 About Me:
+- 🌱 **I'm currently studying:** Full-stack development and improving my skills in web and software development.
+- 💻 **All of my projects are available at:** [My GitHub Repositories](https://github.com/eranmadhuka)
+- 📫 **How to reach me:** hweranmadhuka@gmail.com
+- 🚀 **Fun fact:** I love exploring new frameworks and building creative solutions for real-world problems!
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eranmadhuka" target="_blank">
