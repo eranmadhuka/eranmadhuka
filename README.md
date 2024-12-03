@@ -35,26 +35,19 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 🌟 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eranmadhuka&show_icons=true&theme=radical" alt="Eran's GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eranmadhuka&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eranmadhuka&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
 ---
 
-### ✍️ Top Blog Posts:
-- [The Journey of Becoming a Full-Stack Developer](#)
-- [Best Practices for React and Node.js Integration](#)
-- [Understanding JavaScript Fundamentals](#)
-- [Why MERN is the Future of Web Development](#)
-
----
+<p align="center">
+  I am passionate about solving real-world problems using technology. My expertise lies in building responsive web applications, creating scalable backend systems, and continuously learning to improve my skills in full-stack development.
+</p>
 
 <p align="center">
-  🚀 Exploring, learning, and building amazing projects! 
+  🚀 Let's connect and collaborate on exciting projects!
 </p>
 
 <p align="center">
