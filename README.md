@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer and 3rd-year undergraduate at SLIIT Campus</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/eranmadhuka/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://medium.com/@YOUR-MEDIUM" target="_blank">
